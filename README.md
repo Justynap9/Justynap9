@@ -1,7 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-My name is Justyna and I'm student of Computer Science. 
-My main areas of interest are Big Data and Machine Learning.
+<h4 align="left">My name is Justyna and I'm student of Computer Science. My main areas of interest are Big Data and Machine Learning.</h4>
 
 - 🔭 I’m currently working on application for detecting rotten fruits
 - 🌱 I’m currently developing my statistics skills and learning how to build better machine learning models
